@@ -1,0 +1,62 @@
+{
+  "session_id": "46d71747f8d5",
+  "candidate_name": "Dhruv Suthar",
+  "interviewed_at": "2026-06-23T12:02:57.220852+00:00",
+  "interviewer": "Aria",
+  "model": "gemini-3.1-flash-live-preview",
+  "voice": "Sulafat",
+  "transcript": [
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Hello Dhruv, welcome! I'm Aria, and I'll be conducting your interview today. To start, tell me a little about yourself and what drawn you to this role at Amazon?"
+    }
+  ],
+  "result": {
+    "overall_score": 1.5,
+    "overall_verdict": "The candidate failed to demonstrate any technical knowledge, communication skills, or problem-solving abilities, resulting in a poor overall performance and a 'No' hire recommendation.",
+    "hire_recommendation": "No",
+    "dimensions": [
+      {
+        "name": "Technical Knowledge",
+        "score": 2,
+        "rationale": "The candidate did not provide any technical answers to demonstrate their depth in their domain, and the skills listed on their resume were not discussed."
+      },
+      {
+        "name": "Communication & Clarity",
+        "score": 2,
+        "rationale": "The candidate did not provide any answers, making it difficult to assess their communication and clarity skills in a voice setting."
+      },
+      {
+        "name": "Problem-Solving Approach",
+        "score": 1,
+        "rationale": "There was no evidence of the candidate breaking down problems logically or considering trade-offs and alternatives."
+      },
+      {
+        "name": "Behavioural & Situational Responses",
+        "score": 1,
+        "rationale": "The candidate did not provide any behavioural answers, and therefore did not demonstrate the STAR format or specific and credible examples."
+      },
+      {
+        "name": "Resume Consistency",
+        "score": 1,
+        "rationale": "The candidate's spoken answers, or lack thereof, did not align with what is stated on their resume, resulting in significant knowledge gaps in areas they claimed expertise."
+      }
+    ],
+    "strengths": [],
+    "improvements": [
+      "Develop and demonstrate technical knowledge",
+      "Improve communication and clarity skills",
+      "Practice problem-solving and behavioural responses"
+    ]
+  },
+  "metrics": {
+    "session_id": "46d71747f8d5",
+    "audio_chunks_in": 0,
+    "audio_bytes_in": 0,
+    "audio_chunks_out": 40,
+    "user_transcripts": 0,
+    "gemini_transcripts": 22,
+    "turns_completed": 0
+  }
+}

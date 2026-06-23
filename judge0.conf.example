@@ -1,0 +1,12 @@
+# Copy to judge0.conf and fill in real values. judge0.conf should be gitignored.
+# Generate random passwords with: openssl rand -hex 24
+
+POSTGRES_HOST=db
+POSTGRES_DB=judge0
+POSTGRES_USER=judge0
+POSTGRES_PASSWORD=CHANGE_ME
+
+REDIS_HOST=redis
+REDIS_PASSWORD=CHANGE_ME
+
+MAX_QUEUE_SIZE=100

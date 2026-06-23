@@ -1,0 +1,66 @@
+[
+  {
+    "id": "q1",
+    "company_id": "amazon",
+    "category": "behavioral",
+    "question": "Tell me about a time you disagreed with your manager. What did you do?",
+    "source": "community",
+    "created_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "id": "q2",
+    "company_id": "amazon",
+    "category": "technical",
+    "question": "Design a package tracking system that handles millions of shipments per day.",
+    "source": "community",
+    "created_at": "2026-01-20T10:00:00Z"
+  },
+  {
+    "id": "q3",
+    "company_id": "google",
+    "category": "coding",
+    "question": "Given a stream of numbers, return the median at any point in O(log n) per query.",
+    "source": "community",
+    "created_at": "2026-02-01T10:00:00Z"
+  },
+  {
+    "id": "q4",
+    "company_id": "google",
+    "category": "behavioral",
+    "question": "Describe a project where you had to simplify a complex technical decision for non-engineers.",
+    "source": "community",
+    "created_at": "2026-02-05T10:00:00Z"
+  },
+  {
+    "id": "q5",
+    "company_id": "meta",
+    "category": "system_design",
+    "question": "Design the news feed ranking system for 2 billion daily active users.",
+    "source": "community",
+    "created_at": "2026-02-10T10:00:00Z"
+  },
+  {
+    "id": "q6",
+    "company_id": "meta",
+    "category": "behavioral",
+    "question": "Tell me about a time you shipped something quickly and had to iterate based on metrics.",
+    "source": "community",
+    "created_at": "2026-02-12T10:00:00Z"
+  },
+  {
+    "id": "q7",
+    "company_id": "microsoft",
+    "category": "behavioral",
+    "question": "Give an example of receiving difficult feedback and how you acted on it.",
+    "source": "community",
+    "created_at": "2026-02-14T10:00:00Z"
+  },
+  {
+    "id": "q8",
+    "company_id": "netflix",
+    "category": "culture",
+    "question": "How do you handle freedom and responsibility when there is no strict process?",
+    "source": "community",
+    "created_at": "2026-02-18T10:00:00Z"
+  }
+]

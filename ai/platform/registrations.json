@@ -1,0 +1,44 @@
+[
+  {
+    "id": "05862fd3fe85",
+    "email": "ddhrv@gmail.com",
+    "company_id": "amazon",
+    "registered_at": "2026-06-20T21:22:01.455905+00:00"
+  },
+  {
+    "id": "751c011a206f",
+    "email": "dd@gmail.com",
+    "company_id": "microsoft",
+    "registered_at": "2026-06-20T21:23:40.292693+00:00"
+  },
+  {
+    "id": "f9c80ff0d24f",
+    "email": "dd@gmail.com",
+    "company_id": "amazon",
+    "registered_at": "2026-06-21T16:02:07.455335+00:00"
+  },
+  {
+    "id": "f05292b57249",
+    "email": "dhruv@perpetualny.com",
+    "company_id": "amazon",
+    "registered_at": "2026-06-22T06:55:25.586729+00:00"
+  },
+  {
+    "id": "ad35e830b2f8",
+    "email": "dhruv@perpetualny.com",
+    "company_id": "amazon",
+    "registered_at": "2026-06-22T08:45:12.987685+00:00"
+  },
+  {
+    "id": "ec18a83a021c",
+    "email": "sagar.e@perpetualny.com",
+    "company_id": "amazon",
+    "registered_at": "2026-06-22T12:06:29.535422+00:00"
+  },
+  {
+    "id": "977cc4f42f72",
+    "email": "dhruv@perpetualny.com",
+    "company_id": "amazon",
+    "registered_at": "2026-06-23T12:00:33.424387+00:00"
+  }
+]

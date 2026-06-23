@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@source "../**/*.{js,ts,jsx,tsx}";
+
+@theme {
+  --color-secondary-auralis: #6B6B6B;
+  --color-panel-auralis: #F3F2EF;
+  --color-card-auralis: #FCFCFB;
+  --color-auralis: #E7E7E4;
+
+  --color-primary: #000000;
+  --color-on-primary: #ffffff;
+  --color-surface: #fdf8f8;
+  --color-surface-variant: #e5e2e1;
+  --color-surface-container-low: #f7f3f2;
+  --color-outline: #747878;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #F7F7F5;
+    color: #111111;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

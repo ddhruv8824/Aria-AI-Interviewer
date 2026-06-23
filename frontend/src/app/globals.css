@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+/* Scan all app source files (components live outside src/app/) */
+@source "../**/*.{js,ts,jsx,tsx}";
+
+@theme {
+  --color-secondary-auralis: #6b6b6b;
+  --color-panel-auralis: #f3f2ef;
+  --color-card-auralis: #fcfcfb;
+  --color-auralis: #e7e7e4;
+
+  --color-primary: #000000;
+  --color-on-primary: #ffffff;
+  --color-surface: #fdf8f8;
+  --color-surface-variant: #e5e2e1;
+  --color-surface-container-low: #f7f3f2;
+  --color-outline: #747878;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #f7f7f5;
+    color: #111111;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

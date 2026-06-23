@@ -1,0 +1,119 @@
+{
+  "session_id": "4734871c8d5b",
+  "candidate_name": "Dhruv Suthar",
+  "interviewed_at": "2026-06-22T06:58:25.643174+00:00",
+  "interviewer": "Aria",
+  "model": "gemini-3.1-flash-live-preview",
+  "voice": "Sulafat",
+  "transcript": [
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Hello Dhruv, I'm Aria. It's great to have you here today. To start off, tell me a little about yourself and what drew you to this role?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, hello Arya. So, my name is Dhruv and I am interested in this role."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I don't quite get your answer there, Dhruv — could you share a bit about your background and what specifically excites you about this position?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "baat kar raha hai. Jab tu reply karega na, jisko bhi pass karega, to usse bhi agar tune proper sahi se nahi bola, tere ko bolega tu jo pucha hai woh toh bol."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I'm still not quite getting an answer. Could you please tell me about your background and why you're interested in this position?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Uh."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I didn't quite catch that. To start, could you tell me about yourself and why you're interested in this role?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, I am a software engineer right now but for career growth I am seeking like I saw this opportunities well aligned with my experience so I thought it will be better to apply here and go."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Thank you for sharing that, Dhruv. Looking at your resume, I see you've mentioned working on microservices-based applications. Can you walk me through a specific project and explain your approach to designing those modular services?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "I don't have any answer."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I understand. In that case, could you tell me about a problem you solved using Node.js, maybe related to performance or scalability?"
+    },
+    {
+      "timestamp": "",
+      "role": "Coding Submission",
+      "text": "Problem: Classify a Number\nLanguage: python\nTime taken: 3s (submitted)\nTests passed: 5/5\nAll passed: True\n\nSubmitted code:\nn = int(input())\nif n > 0:\n    print(\"Positive\")\nelif n < 0:\n    print(\"Negative\")\nelse:\n    print(\"Zero\")"
+    }
+  ],
+  "result": {
+    "overall_score": 2.9,
+    "overall_verdict": "The candidate struggled to demonstrate technical knowledge, communicate clearly, and provide meaningful behavioural responses, raising significant concerns about their qualifications and fit for the role. While they showed some problem-solving ability, it was not enough to outweigh their other weaknesses.",
+    "hire_recommendation": "No",
+    "dimensions": [
+      {
+        "name": "Technical Knowledge",
+        "score": 2,
+        "rationale": "The candidate struggled to demonstrate technical depth, failing to provide a meaningful answer when asked about microservices-based applications and Node.js. However, they did submit a correct code solution for the Classify a Number problem."
+      },
+      {
+        "name": "Communication & Clarity",
+        "score": 3,
+        "rationale": "The candidate's answers were often disjointed and lacking in clarity, requiring multiple prompts to elicit a response. Their communication style made it difficult to understand their thoughts and ideas."
+      },
+      {
+        "name": "Problem-Solving Approach",
+        "score": 6,
+        "rationale": "Although the candidate didn't provide a detailed explanation of their problem-solving approach, their submitted code for the Classify a Number problem demonstrated a logical and straightforward approach to solving the problem."
+      },
+      {
+        "name": "Behavioural & Situational Responses",
+        "score": 1,
+        "rationale": "The candidate failed to provide any meaningful behavioural or situational responses, struggling to articulate their background, interests, or experiences."
+      },
+      {
+        "name": "Resume Consistency",
+        "score": 2,
+        "rationale": "The candidate's spoken answers often failed to align with the skills and experiences listed on their resume, raising concerns about their actual level of expertise and knowledge gaps in areas they claimed proficiency."
+      }
+    ],
+    "strengths": [
+      "Submitted a correct code solution for the Classify a Number problem"
+    ],
+    "improvements": [
+      "Develop clearer communication and problem explanation skills",
+      "Provide more detailed and specific examples from their experiences",
+      "Demonstrate a stronger understanding of the technical concepts and skills listed on their resume"
+    ]
+  },
+  "metrics": {
+    "session_id": "4734871c8d5b",
+    "audio_chunks_in": 754,
+    "audio_bytes_in": 2412800,
+    "audio_chunks_out": 195,
+    "user_transcripts": 5,
+    "gemini_transcripts": 104,
+    "turns_completed": 6
+  }
+}

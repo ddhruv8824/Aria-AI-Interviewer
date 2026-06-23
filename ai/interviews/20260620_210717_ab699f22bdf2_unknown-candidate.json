@@ -1,0 +1,131 @@
+{
+  "session_id": "ab699f22bdf2",
+  "candidate_name": "Unknown Candidate",
+  "interviewed_at": "2026-06-20T21:07:17.246100+00:00",
+  "interviewer": "Aria",
+  "model": "gemini-3.1-flash-live-preview",
+  "voice": "Sulafat",
+  "transcript": [
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Hello! I'm Aria. It's great to have you here today. Tell me a little about yourself and what drew you to this role."
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, so I am software engineer."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I see. Could you elaborate a bit on your experience and what makes you interested in this particular position?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, so I am really interested in this."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "That's good to hear. But to help me understand better, could you share what aspects of the domain or the company excite you the most?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "the front end domain"
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I understand. Could you tell me about specific front-end technologies you have worked with, and why those interest you for this role?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "React and JavaScript"
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Okay, React and JavaScript. Looking at your resume, I see you developed a collaborative text editor using React. Can you tell me about the challenges you faced while building that, and how you overcame them?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "So like I used Monoco is a open source platform for creator and I really love that and like use the component based architecture."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Interesting. You mentioned using component-based architecture. How did that approach specifically help you manage the complexity of the editor, and were there any trade-offs you encountered?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "No, no. No."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I don't quite get your point there. Could you clarify how the component-based architecture helped, or if you faced any challenges with it?"
+    },
+    {
+      "timestamp": "",
+      "role": "Coding Submission",
+      "text": "Problem: Classify a Number\nLanguage: python\nTime taken: 5s (submitted)\nTests passed: 5/5\nAll passed: True\n\nSubmitted code:\nn = int(input())\nif n > 0:\n    print(\"Positive\")\nelif n < 0:\n    print(\"Negative\")\nelse:\n    print(\"Zero\")"
+    }
+  ],
+  "result": {
+    "overall_score": 5.7,
+    "overall_verdict": "The candidate demonstrates some potential, particularly in solving straightforward coding challenges and familiarity with front-end technologies. However, they need significant improvement in communicating their ideas clearly, providing detailed examples from their experiences, and showcasing a deeper understanding of technical concepts.",
+    "hire_recommendation": "Maybe",
+    "dimensions": [
+      {
+        "name": "Technical Knowledge",
+        "score": 6,
+        "rationale": "The candidate demonstrated basic technical knowledge, particularly in front-end technologies like React and JavaScript, and successfully solved a simple coding problem. However, their answers lacked depth and detail, failing to showcase expertise beyond surface-level familiarity."
+      },
+      {
+        "name": "Communication & Clarity",
+        "score": 4,
+        "rationale": "The candidate's responses were often brief and lacked clarity, making it difficult to understand their thought process and experiences. They struggled to provide detailed explanations, especially when asked to elaborate on their interests and challenges faced in previous projects."
+      },
+      {
+        "name": "Problem-Solving Approach",
+        "score": 8,
+        "rationale": "In the coding challenge, the candidate demonstrated a straightforward and correct approach to solving the 'Classify a Number' problem. However, during the interview, they failed to break down problems logically or discuss trade-offs when faced with more complex, open-ended questions."
+      },
+      {
+        "name": "Behavioural & Situational Responses",
+        "score": 3,
+        "rationale": "The candidate's behavioural answers did not follow the STAR format and lacked specific, credible examples from their experiences. They seemed to struggle with providing meaningful insights into their past projects and how they handled challenges."
+      },
+      {
+        "name": "Resume Consistency",
+        "score": 7,
+        "rationale": "The candidate's spoken answers generally aligned with their resume, particularly in claiming expertise in front-end technologies. However, there were instances where they seemed uncertain or lacking in detailed knowledge about areas they claimed to be skilled in, indicating potential gaps in their expertise."
+      }
+    ],
+    "strengths": [
+      "Basic coding skills",
+      "Familiarity with front-end technologies",
+      "Ability to solve simple problems"
+    ],
+    "improvements": [
+      "Providing detailed explanations",
+      "Elaborating on experiences and challenges",
+      "Demonstrating deeper technical knowledge"
+    ]
+  },
+  "metrics": {
+    "session_id": "ab699f22bdf2",
+    "audio_chunks_in": 807,
+    "audio_bytes_in": 2582400,
+    "audio_chunks_out": 230,
+    "user_transcripts": 6,
+    "gemini_transcripts": 120,
+    "turns_completed": 7
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "tagline": "Leadership Principles & bar-raiser style",
+    "color": "#FF9900",
+    "focus_areas": ["Leadership Principles", "System design", "Behavioral STAR", "Coding"]
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "tagline": "Googliness, algorithms & product sense",
+    "color": "#4285F4",
+    "focus_areas": ["Algorithms", "System design", "Googleyness", "Coding"]
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "tagline": "Move fast, product & scale",
+    "color": "#0668E1",
+    "focus_areas": ["Product sense", "System design", "Behavioral", "Coding"]
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "tagline": "Growth mindset & customer obsession",
+    "color": "#00A4EF",
+    "focus_areas": ["Behavioral", "System design", "Coding", "Azure fundamentals"]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "tagline": "Craft, privacy & end-to-end ownership",
+    "color": "#555555",
+    "focus_areas": ["System design", "Low-level details", "Behavioral", "Coding"]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "tagline": "Freedom & responsibility culture",
+    "color": "#E50914",
+    "focus_areas": ["Culture fit", "System design", "Behavioral", "Coding"]
+  }
+]

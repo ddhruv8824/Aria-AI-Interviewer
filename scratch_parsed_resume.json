@@ -1,0 +1,93 @@
+{
+  "contact": {
+    "name": "Dhruv Suthar",
+    "email": "DhruvSuthar@proton.me",
+    "phone": "+918824635374",
+    "linkedin": null,
+    "github": null,
+    "location": "Bengaluru, INDIA",
+    "website": null
+  },
+  "summary": "FullStack engineer with 3+ years shipping fast, responsive Uls that users love and metrics prove. No hobbies outside code-I'm wired to stay heads-down building pixel-perfect interfaces. Strong in React, Next.js, TypeScript, Tailwind (swap your stack here). Expert at turning designs into production features quickly under tight deadlines. Obsessed with clean code, rapid iteration, and real impact-let's ship stuff that sticks.",
+  "skills": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "C++",
+    "Java",
+    "Python",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "Nextjs",
+    "TenStack Query",
+    "Redux",
+    "ThreeJS",
+    "Framer Motion",
+    "GSAP",
+    "SCss",
+    "Tailwind CSS",
+    "MongoDB",
+    "MySQL",
+    "Supabase",
+    "Git",
+    "GitHub",
+    "Postman",
+    "VS Code",
+    "Figma",
+    "Docker"
+  ],
+  "experience": [
+    {
+      "company": "Inspiron Labs",
+      "title": "Software Engineer",
+      "start_date": "February 2025",
+      "end_date": "Present",
+      "location": null,
+      "bullets": [
+        "Worked on 5+ enterprise applications across Cyber Security and LegalTech domains, building scalable and high-performance user interfaces using React, Next.js, TypeScript, and modern frontend architectures. Experienced in integrating REST APIs, optimizing UI performance, and developing responsive, user-centric applications. Strong focus on state management (Redux), component reusability, code quality, TDD, and seamless end-to-end user experience.",
+        "Translated Figma prototypes into pixel-perfect, responsive UIs using React.js, Next.js, TailwindCSS, and MUI, ensuring design fidelity and accessibility compliance (WCAG basics).",
+        "Delivered microservices-based applications, ensuring a modular and scalable approach.",
+        "Skilled in leveraging AI-powered developer tools such as Cursor, Claude, and GitHub Copilot to accelerate code generation, perform smart refactoring, enhance documentation, and improve productivity across the development lifecycle."
+      ]
+    },
+    {
+      "company": "Unison",
+      "title": "Frontend & Web3 Engineer",
+      "start_date": "2023",
+      "end_date": "2025",
+      "location": null,
+      "bullets": [
+        "Worked as a Frontend & Web3 Engineer, building decentralized applications using React and Next.js with blockchain integrations. Experienced in wallet connectivity, smart contract interaction, and managing on-chain/off-chain data to deliver secure and seamless Web3 user experiences.",
+        "Implemented wallet integrations (MetaMask) and enabled secure user authentication and transactions.",
+        "Integrated smart contracts and blockchain data into frontend applications for real-time interactions.",
+        "Skilled in leveraging AI-powered developer tools such as Cursor, Claude, and GitHub Copilot to accelerate code generation, perform smart refactoring, enhance documentation, and improve productivity across the development lifecycle."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "MLSU",
+      "degree": "BCA",
+      "field_of_study": null,
+      "graduation_date": "2021 - 2024",
+      "gpa": null
+    },
+    {
+      "institution": "MASAI",
+      "degree": "Program",
+      "field_of_study": "Computer Software Engineering",
+      "graduation_date": "2024 - 2025",
+      "gpa": null
+    },
+    {
+      "institution": "WEB 3 UNIVERSITY",
+      "degree": "Program",
+      "field_of_study": "Web 3 Fundamentals",
+      "graduation_date": "2023 - 2024",
+      "gpa": null
+    }
+  ],
+  "certifications": [],
+  "languages": []
+}

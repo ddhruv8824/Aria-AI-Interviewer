@@ -1,0 +1,136 @@
+{
+  "session_id": "c54a5918f213",
+  "candidate_name": "Dhruv Suthar",
+  "interviewed_at": "2026-06-21T16:05:12.759803+00:00",
+  "interviewer": "Aria",
+  "model": "gemini-3.1-flash-live-preview",
+  "voice": "Sulafat",
+  "transcript": [
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Hello, Dhruv, it's so nice to have you here today. I'm Aria, and I'll be conducting this interview. To kick things off, tell me a little about yourself and why you're interested in this role?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "So my name is Dhruv and I am interested in this role."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I see you're interested, but could you tell me more about your background and what specifically drew you to this position?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "So, I am a full stack engineer with 3+ experience and I have done full stack engineering like front end back end. And I like I am also learning Python right now for the AI part. So, that's from my side."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Thanks for sharing that, Dhruv. Now, looking at your resume, I see you've worked on translating Figma prototypes into pixel-perfect UIs using React and Next.js. Can you walk me through a specific project where you did this, and what were some of the key challenges you faced?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, so uh uh so major problems are like to uh maintaining the exact pixels according to Figma and in my UI and yeah, that's it."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Maintaining pixel perfection can definitely be tricky. You also mentioned experience with microservices. Could you describe your role in delivering those applications, and what you did to ensure they were scalable?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, for the microservice architecture, I use AWS lambda functions for it. And using the serverless architecture. So it's also helped me to build a good microservice architecture and I use also use the Kafka for the streaming platforms and I also use SQS in AWS for a message transformation. Yeah."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "That sounds like a robust setup. Moving on to technical questions — your resume lists Kubernetes. Describe a time you used it to solve a specific scaling problem."
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "No, Kubernetes didn't mention in my resume."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "Ah, my apologies. Let me recheck the skills. You've listed Docker instead — can you tell me about a situation where you implemented Docker to improve the development or deployment process?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah. Thanks."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I didn't quite get your answer there — could you describe a time you worked with Docker and how it benefited the process?"
+    },
+    {
+      "timestamp": "",
+      "role": "You",
+      "text": "Yeah, used token and it was great."
+    },
+    {
+      "timestamp": "",
+      "role": "Gemini",
+      "text": "I understand it was great, but can you give me a specific example of what you achieved with it? Like what problem did you solve?"
+    }
+  ],
+  "result": {
+    "overall_score": 3.2,
+    "overall_verdict": "The candidate's performance was underwhelming, with significant gaps in technical knowledge, communication, and problem-solving skills, making it unlikely that they would be a strong fit for the role at this time.",
+    "hire_recommendation": "No",
+    "dimensions": [
+      {
+        "name": "Technical Knowledge",
+        "score": 4,
+        "rationale": "The candidate demonstrated limited technical depth, struggled to provide specific examples, and failed to clearly explain their experience with various technologies, including Docker and microservices."
+      },
+      {
+        "name": "Communication & Clarity",
+        "score": 3,
+        "rationale": "The candidate's answers were often brief, unclear, and lacked structure, making it difficult to understand their thought process and experiences."
+      },
+      {
+        "name": "Problem-Solving Approach",
+        "score": 2,
+        "rationale": "The candidate did not demonstrate a clear problem-solving approach, failing to break down problems logically or consider trade-offs or alternatives in their responses."
+      },
+      {
+        "name": "Behavioural & Situational Responses",
+        "score": 2,
+        "rationale": "The candidate's behavioural answers lacked specificity, credibility, and failed to follow the STAR format, making it challenging to assess their past experiences and skills."
+      },
+      {
+        "name": "Resume Consistency",
+        "score": 5,
+        "rationale": "Although the candidate's spoken answers were often vague, they generally aligned with the skills listed on their resume, but the lack of specific examples and details raised some concerns about knowledge gaps."
+      }
+    ],
+    "strengths": [
+      "Interest in the role",
+      "Basic knowledge of full-stack engineering",
+      "Familiarity with some technologies"
+    ],
+    "improvements": [
+      "Providing clear and specific examples",
+      "Developing a more structured approach to communication",
+      "Demonstrating problem-solving skills and technical depth"
+    ]
+  },
+  "metrics": {
+    "session_id": "c54a5918f213",
+    "audio_chunks_in": 1425,
+    "audio_bytes_in": 4560000,
+    "audio_chunks_out": 300,
+    "user_transcripts": 7,
+    "gemini_transcripts": 162,
+    "turns_completed": 7
+  }
+}

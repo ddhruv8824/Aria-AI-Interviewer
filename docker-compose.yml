@@ -1,0 +1,9 @@
+# Optional: self-hosted Judge0 (needs Postgres + Redis — not required for UI testing).
+#
+# The app runs code locally by default (CODE_EXECUTOR=local). No Docker needed.
+# To use Judge0 later for Java/C++ sandboxing, restore the full stack from:
+# https://github.com/judge0/judge0
+#
+# Then set: CODE_EXECUTOR=judge0  JUDGE0_URL=http://localhost:2358
+
+services: {}

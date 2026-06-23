@@ -1,0 +1,29 @@
+[
+  {
+    "id": "b1",
+    "company_id": "amazon",
+    "title": "SDE-2 loop: heavy on Leadership Principles",
+    "author_label": "Anonymous · former candidate",
+    "excerpt": "Four LP-heavy behavioral rounds, one system design on inventory, and a coding round on trees. Bar raiser focused on ownership and dive deep.",
+    "body": "The loop spanned two days virtually. Every behavioral answer was probed with 'what would you do differently?' The system design was an inventory reservation service — expect follow-ups on consistency and peak traffic. Coding was medium LeetCode with emphasis on clean code and test cases.",
+    "created_at": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "b2",
+    "company_id": "google",
+    "title": "L4 interview: algorithms + googliness",
+    "author_label": "Anonymous · recent interview",
+    "excerpt": "Two coding rounds (graphs + DP), one system design lite, and a 'googleyness' conversation about collaboration.",
+    "body": "Interviewers cared about thought process out loud. System design was a URL shortener with analytics. Googliness round asked about conflict and ambiguity — prepare concrete STAR stories.",
+    "created_at": "2026-01-25T10:00:00Z"
+  },
+  {
+    "id": "b3",
+    "company_id": "meta",
+    "title": "Product engineer loop at Meta",
+    "author_label": "Anonymous · employee",
+    "excerpt": "Product sense questions dominated. Expect 'why this design?' and metrics for success.",
+    "body": "They wanted trade-offs between engagement and integrity. Coding was practical — parse logs and aggregate metrics. Behavioral tied to moving fast with guardrails.",
+    "created_at": "2026-02-08T10:00:00Z"
+  }
+]
