@@ -57,3 +57,8 @@ parsed_resumes/
 db/
 *.db
 *.log
+
+# Local interview data and registrations
+ai/interviews/
+ai/platform/registrations.json
+
